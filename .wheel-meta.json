@@ -1,0 +1,22 @@
+{
+  "wheel_id": 60,
+  "slug": "tscm-nl-102",
+  "project": "seo-company-melbourne-costs-tn-102",
+  "parent_t1_ref": "tscm-nl-001",
+  "node_role": "feeder",
+  "money_target": "theseocompanymelbourne.com.au",
+  "primary_kw": "seo company melbourne costs",
+  "intended_url": "https://seo-company-melbourne-costs-tn-102.onrender.com/",
+  "links": [
+    {
+      "target_url": "https://seo-company-melbourne-tn-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "seo company melbourne",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://seo-company-melbourne-tn-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "seo company melbourne",
+      "rel": "follow"
+    }
+  ]
+}
