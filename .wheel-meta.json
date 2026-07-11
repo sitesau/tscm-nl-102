@@ -6,15 +6,15 @@
   "node_role": "feeder",
   "money_target": "theseocompanymelbourne.com.au",
   "primary_kw": "seo company melbourne costs",
-  "intended_url": "https://seo-company-melbourne-costs-tn-102.s3.ap-southeast-2.amazonaws.com/index.html",
+  "intended_url": "https://seo-company-melbourne-costs-tn-102.vercel.app/",
   "links": [
     {
-      "target_url": "https://seo-company-melbourne-tn-151.pages.dev/",
+      "target_url": "https://seo-company-melbourne-tn-151.vercel.app/",
       "anchor": "seo company melbourne",
       "rel": "follow"
     },
     {
-      "target_url": "https://seo-company-melbourne-tn-151.pages.dev/",
+      "target_url": "https://seo-company-melbourne-tn-151.vercel.app/",
       "anchor": "seo company melbourne",
       "rel": "follow"
     }
