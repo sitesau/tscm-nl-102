@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://seo-company-melbourne-costs-tn-102.vercel.app/sitemap.xml
+Sitemap: https://seo-company-melbourne-costs-tn-102.pages.dev/sitemap.xml
